@@ -18,9 +18,9 @@ Loyiha eski tizimlardan to'liq uzilgan va faqat **Neo Vinetka** kompaniyasining 
 
 | Xizmat nomi | Manzil / Havola | Vazifasi |
 | :--- | :--- | :--- |
-| **1. Asosiy Email** | `neovinetka@gmail.com` | Barcha xizmatlar (GitHub, Supabase, Hosting) shu pochtaga ulangan. |
-| **2. CRM Ishchi Sayti** | https://neovinetka.github.io/neo-vinetka-crm/ | Xodimlar va rahbar har kuni telefon yoki kompyuterdan kiradigan asosiy sayt. |
-| **3. GitHub (Kod va Server)** | Akkaunt: `neovinetka`<br>Manzil: https://github.com/neovinetka/neo-vinetka-crm | Dasturning barcha kodlari saqlanadigan va saytni ishlatib turadigan joy. |
+| **1. Asosiy Email** | `neovinetka@gmail.com` | Barcha xizmatlar (Vercel, GitHub, Supabase) shu pochtaga ulangan. |
+| **2. CRM Ishchi Sayti (Vercel)** | https://neo-vinetka-crm.vercel.app<br>*(Zaxira: https://neovinetka.github.io/neo-vinetka-crm/)* | Xodimlar va rahbar har kuni telefon yoki kompyuterdan kiradigan asosiy sayt. |
+| **3. Vercel va GitHub** | Vercel: https://vercel.com/neo-vinetka/neo-vinetka-crm<br>GitHub: https://github.com/neovinetka/neo-vinetka-crm | `Neo Vinetka` profilida `vinetka-catalog` yonida turadi. `git push` qilinsa Vercel avtomatik deploy qiladi. |
 | **4. Supabase (Ma'lumotlar bazasi)** | Boshqaruv: https://supabase.com/dashboard<br>Tashkilot: **Neo Vinetka** (`crsvxnharwslnopdvizg`)<br>Project ID: `hwjljzlemarzeejrgkoe`<br>URL: `https://hwjljzlemarzeejrgkoe.supabase.co` | Barcha buyurtmalar, xodimlar, kassa to'lovlari, xarajatlar va oyliklar saqlanadigan bulutli baza. |
 
 ---
